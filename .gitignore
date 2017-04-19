@@ -1,0 +1,5 @@
+_mysql_config.json
+**.ipynb_checkpoints**
+origin/**
+origin/TrainingData
+**__pycache__**

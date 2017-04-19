@@ -1,0 +1,7 @@
+{
+    "USER": "",
+    "PASSWORD": "",
+    "PORT": "3306",
+    "DATABASE": "growing_instability",
+    "HOST": "35.184.108.36"
+}
